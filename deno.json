@@ -1,0 +1,14 @@
+{
+  "name": "Nao Tomori",
+	"version": "1.0.0",
+	"description": "an idiot build app for crying.",
+	"keywords": [
+		"nao",
+		"tomori",
+		"charlotte"
+	],
+	"hasShowcase": false,
+  "tasks": {
+	"start": "deno run --allow-net --allow-read --allow-env --allow-write --watch app.ts"
+  }
+}
